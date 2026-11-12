@@ -1,2 +1,5 @@
 backup-original.html
 .vercel
+
+.vercel
+.env*
